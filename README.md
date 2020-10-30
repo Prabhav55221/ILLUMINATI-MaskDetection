@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 For our complete submisisson, headover to - https://github.com/swatig23/myntra_ILLUMINATI
-This is the second component of our project - *Real Time Face Mask Detection (RM - FMD)*
+This is the second component of our project - *Real Time Face Mask Detection (RT - FMD)*
 
 Before going further please see the demo - ____Insert Video____
 
@@ -81,7 +81,7 @@ OR
 $ python detect_mask_image.py --image images/pic1.jpeg
 ```
 
-> Website Mode
+> Webcam Mode
 ```sh
 $ python3 detect_mask_video.py 
 OR
