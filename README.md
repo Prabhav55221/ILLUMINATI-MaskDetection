@@ -11,7 +11,8 @@ Before going further please see the demo - ____Insert Video____
 
   - Easy 5 step setup on your local PC.
   - Interactive WebApp that supports upload of images upto 200 MB for processing.
-  - We don't want to brag, but our model achieves over 99.3% accuracy and can identify *tricks* like - "Hand Covering Face", "Imperfect Mask" and "Towels coverign face".
+  - We don't want to brag, but our model achieves over 99.3% accuracy and can identify *tricks* like - "Hand Covering Face", "Imperfect Mask" and "Towels covering
+  face".
 
 You can also:
   - Use this as an API!
