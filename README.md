@@ -5,8 +5,7 @@
 For our complete submisisson, headover to - https://github.com/swatig23/myntra_ILLUMINATI
 This is the second component of our project - *Real Time Face Mask Detection (RT - FMD)*
 
-Before going further please see the demo - ____Insert Video____
-
+Before going further please see the demo - [Demo](https://photos.app.goo.gl/J9uwLA15gid47kNk8)
 # Features!
 
   - Easy 5 step setup on your local PC.
